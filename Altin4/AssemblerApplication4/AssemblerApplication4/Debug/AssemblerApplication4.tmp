@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\Debug\AssemblerApplication4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication4.map</FILE>
+  <FILE>AssemblerApplication4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <begin><FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</FILE><LINE>11</LINE></begin>
+  <interrupt><FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</FILE><LINE>36</LINE></interrupt>
+  <Loop><FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</FILE><LINE>31</LINE></Loop>
+  <Delay_1sec><FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</FILE><LINE>42</LINE></Delay_1sec>
+  <Delay1><FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</FILE><LINE>45</LINE></Delay1>
+  <Delay2><FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</FILE><LINE>48</LINE></Delay2>
+  <Delay3><FILE>c:\users\labs\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\AssemblerApplication4.asm</FILE><LINE>51</LINE></Delay3>
+ </LABELS>
+</ASSEMBLER_INFO>
